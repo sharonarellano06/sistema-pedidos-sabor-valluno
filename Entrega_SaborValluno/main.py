@@ -20,7 +20,6 @@ clientes: list[Cliente] = []
 pedidos: list[Pedido] = []
 DIA_SEMANA_ES = ("lunes", "martes", "miercoles", "jueves", "viernes", "sabado", "domingo")
 def cargar_productos_de_referencia() -> None:
-    """Carga los dos precios que aparecen en el ejemplo oficial del documento."""
     productos.extend([
         Plato("Silpancho", "35.00"),
         Bebida("Mocochinchi", "6.00", "refresco natural", "vaso"),
