@@ -24,8 +24,7 @@ Entrega_SaborValluno/
 │   └── pagos.py
 └── docs/
     ├── diagrama_v1.png
-    ├── diagrama_v2.png
-    ├── diagrama_v2.mmd
+    ├── diagrama_v2.jpeg
     ├── bitacora_ia.md
     ├── registro_ia_arellano.md
     └── acta_consultas.md
