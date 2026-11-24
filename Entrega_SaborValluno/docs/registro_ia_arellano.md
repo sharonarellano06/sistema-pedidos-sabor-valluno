@@ -9,6 +9,7 @@ Este registro presenta cada uso en apartados para facilitar su lectura. Las fech
 ## 1. Comprensión de requisitos
 
 - **Fecha:** Pendiente de verificar en el historial de conversación.
+- **Herramienta:** ChatGPT / Codex.
 - **Tipo de uso:** Explicación del caso y sus reglas.
 - **Consulta:** “¿Podrías guiarme paso a paso, específicamente y detalladamente?”
 - **Qué acepté:** La orientación para separar productos, pedidos, pagos, clientes y reglas.
@@ -18,7 +19,8 @@ Este registro presenta cada uso en apartados para facilitar su lectura. Las fech
 
 ## 2. Revisión del diagrama UML
 
-- **Fecha:** Pendiente de verificar en el historial de conversación.
+- **Fecha del primer diagrama:** 17/11/2026, según el recuerdo de la estudiante. Esta fecha se refiere al trabajo del primer diagrama; no confirma que cada consulta de IA sobre UML ocurriera ese día. La estudiante recuerda que su última versión del diagrama fue el 23/11/2026.
+- **Herramienta:** ChatGPT / Codex.
 - **Tipo de uso:** Revisión de diseño y relaciones UML.
 - **Consulta:** Compartí avances del diagrama y pedí revisar combos, cardinalidades, atributos y métodos.
 - **Qué acepté:** La explicación de `ComboProducto` como clase de asociación y las multiplicidades.
@@ -29,6 +31,7 @@ Este registro presenta cada uso en apartados para facilitar su lectura. Las fech
 ## 3. Conceptos de Python
 
 - **Fecha:** Pendiente de verificar en el historial de conversación.
+- **Herramienta:** ChatGPT / Codex.
 - **Tipo de uso:** Explicación de sintaxis y organización del programa.
 - **Consulta:** Pregunté por `from`, `import`, las triple comillas y `if __name__ == "__main__"`.
 - **Qué acepté:** La explicación de imports, docstrings y del punto de entrada del programa.
@@ -39,6 +42,7 @@ Este registro presenta cada uso en apartados para facilitar su lectura. Las fech
 ## 4. Preparación del programa
 
 - **Fecha:** Pendiente de verificar en el historial de conversación.
+- **Herramienta:** ChatGPT / Codex.
 - **Tipo de uso:** Borrador y organización del código.
 - **Consulta:** Pedí el código organizado en una carpeta y ayuda para ejecutar el menú.
 - **Qué acepté:** La organización por productos, pedidos, pagos, clientes y el menú de consola.
@@ -49,6 +53,7 @@ Este registro presenta cada uso en apartados para facilitar su lectura. Las fech
 ## 5. Revisión de entregables y pruebas
 
 - **Fecha:** 24/11/2026.
+- **Herramienta:** ChatGPT / Codex.
 - **Tipo de uso:** Revisión de requisitos y preparación de pruebas.
 - **Consulta:** “Para tener un muy buen trabajo, ¿qué más me faltaría? ¿Podrías hacerlo tal como pide?”
 - **Qué acepté:** Preparar README, pruebas, diagramas y documentos del proyecto.
@@ -59,6 +64,7 @@ Este registro presenta cada uso en apartados para facilitar su lectura. Las fech
 ## 6. Verificación técnica realizada por Codex
 
 - **Fecha:** 24/11/2026.
+- **Herramienta:** ChatGPT / Codex.
 - **Tipo de uso:** Ejecución y comprobación técnica asistida.
 - **Consulta o acción:** Codex ejecutó `python pruebas.py` e inició `main.py` con la opción de salida.
 - **Qué acepté:** El resultado observado en este entorno: 14 comprobaciones `assert` pasaron y el menú inició y salió normalmente.
@@ -69,6 +75,7 @@ Este registro presenta cada uso en apartados para facilitar su lectura. Las fech
 ## Contexto y límites
 
 - La estudiante informó que el docente asignó la Variante A el **23/11/2026**. Esa fecha corresponde a la asignación, no necesariamente a una consulta de IA.
+- La estudiante reporta que también trabajó en el proyecto el **20/11/2026, 22/11/2026 y 23/11/2026**. Son días de trabajo confirmados por ella; no se asignan automáticamente a consultas individuales.
 - Las fechas antiguas deben completarse solo si se pueden confirmar en el historial.
 - Antes de entregar, la estudiante debe revisar cada apartado, completar su autoevaluación y firmar su propia declaración.
 
@@ -78,3 +85,4 @@ Declaro que revisé este registro, que los usos y fechas que complete correspond
 
 **Firma:** ____________________________________  
 **Fecha de firma:** ____________________________
+
